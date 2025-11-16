@@ -1,9 +1,9 @@
 # ReceiptSplitter
 
-# General Idea:
+## General Idea:
 Take a photo of a receipt and load the text into a web page allowing you to divide the cost of any particular item between any number of people. 
 
-# Functionalities:
+## Functionalities:
 - Take photo and read the text into whatever file
 - Add as many “users” as are required
 - Toggle on or off each user for each item
